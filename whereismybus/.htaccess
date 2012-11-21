@@ -1,0 +1,21 @@
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+<Files config.inc>
+order allow,deny
+deny from all
+</Files>
+<Files header.inc>
+order allow,deny
+deny from all
+</Files>
+<Files footer.inc>
+order allow,deny
+deny from all
+</Files>
+<Files sidebar.inc>
+order allow,deny
+deny from all
+</Files>
+
